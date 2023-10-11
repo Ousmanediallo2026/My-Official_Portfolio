@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Young Serif', serif;
+}
+
+/* Navabr Section Start */
+
+.navbar-1 {
+    margin-left: 40%;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.li-1 {
+    color: #dc3545 !important;
+}
+/* Navabr Section End */
+
+
+/* Home page section start */
+
+.conatiner-1 {
+   
+    background-color: #F0ECFF;
+    padding-bottom: 50px;
+    
+}
+.row-1 {
+    margin-top: 7%;
+}
+
+.right-banner {
+    margin-left: 5%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5% !important;
+}
+.first-h3 {
+    font-size: 15px ;
+    color: #dc3545;
+    margin-bottom: 20px;
+}
+.first-h1 {
+    font-size: 90px !important;
+    margin-bottom: 20px;
+}
+.first-paragraph {
+    color: grey;
+    margin-bottom: 40px;
+}
+.first-anchor {
+    padding: 18px 50px;
+    background-color: #dc3545;
+    border-radius: 20px;
+    text-decoration: none;
+    color: #fff;
+    text-transform: capitalize;
+    border: none;
+    
+    
+}
+
+.second-anchor {
+    padding: 18px 50px;
+    
+    border-radius: 20px;
+    text-decoration: none;
+    color: #dc3545;
+    font-weight: 800;
+    text-transform: capitalize;
+    border: none;
+}
+.fa-play {
+    background-color: #DBDCE9;
+    padding: 15px 17px;
+    border-radius: 50px;
+    align-items: center;
+    margin-top: -20px !important;
+}
+.move {
+    margin-top: 60px;
+    margin-left: 10px;
+}
+
+/* Home page section end */
+
+/* About me page section start */
+.row-2 {
+    margin-top: 140px !important;
+    margin-right: 30px !important;
+    margin-left: 30px !important;
+    
+}
+.first-h2 {
+    font-size: 80px ;
+}
+.third-paragraph {
+    margin-bottom: 60px !important;
+}
+
+.third-anchor {
+    padding: 18px 50px;
+    border: 2px solid #DBDCE9;
+    border-radius: 20px;
+    text-decoration: none;
+    
+
+}
+.third-anchor:hover {
+    background-color: #dc3545;
+    transition: all ease-in-out 0.5s;
+    color: #fff;
+}
+/* About me page section end */
+
+
